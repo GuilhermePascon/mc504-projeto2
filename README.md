@@ -6,3 +6,5 @@ Problema: Uma loja de patins cuja demanda é muito alta, precisa de um sistema p
 
 SOLUÇÃO: Foi implementado um programa onde assim que um produto é produzido, ele é contabilizado na lista de fabricação e depois é disponibilizado na prateleira e assim que é vendido é retirado da prateleira e contabilizado na lista de vendidos. 
 A parte que produz e a parte que vende são duas threads que rodam simultaneamente com o método de semáforo.
+
+OBS: O código está na branch master
