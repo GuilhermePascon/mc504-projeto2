@@ -1,8 +1,8 @@
 # mc504-projeto2
 Projeto 2 da disciplina de MC504, 1s2022.
 
-Paulo Henrique da Fonseca 138995
-Raniery Rodrigues da silva 223849
+Paulo Henrique da Fonseca 138995, 
+Raniery Rodrigues da silva 223849, 
 Guilherme Henrique Pascon 235980
 
 PROBLEMA:
